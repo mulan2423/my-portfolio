@@ -1,2 +1,2 @@
 # live-site
-[live-site] (https://adelaides-portfolio.netlify.app/#contact) 
+[live-site] (https://adelaides-portfolio.netlify.app/) 
